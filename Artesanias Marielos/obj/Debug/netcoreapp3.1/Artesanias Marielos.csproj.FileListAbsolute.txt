@@ -1,0 +1,293 @@
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.exe
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.deps.json
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.runtimeconfig.json
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.runtimeconfig.dev.json
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.pdb
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.Views.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.Views.pdb
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.AssemblyReference.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.AssemblyInfoInputs.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.AssemblyInfo.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorComponent.input.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorComponent.output.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Artesanias Marielos.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.TagHelpers.input.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.TagHelpers.output.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorCoreGenerate.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorAssemblyInfo.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorAssemblyInfo.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\staticwebassets\Artesanias Marielos.StaticWebAssets.Manifest.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\staticwebassets\Artesanias Marielos.StaticWebAssets.xml
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Artesanias Marielos.styles.css
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorTargetAssemblyInfo.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorTargetAssemblyInfo.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.Views.pdb
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.CopyComplete
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.dll
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.pdb
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.genruntimeconfig.cache
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddCategoria.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditCategoria.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchCategoria.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\AddCategoria.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\EditCategoria.razor.g.cs
+D:\Usuarios\Alejandro Moraga\Escritorio\Artesanias Marielos\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\FetchCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.exe
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.deps.json
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.runtimeconfig.json
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.runtimeconfig.dev.json
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.pdb
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.Views.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Artesanias Marielos.Views.pdb
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.AssemblyReference.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.AssemblyInfoInputs.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.AssemblyInfo.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorComponent.input.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorComponent.output.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\RazorDeclaration\Artesanias Marielos.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.TagHelpers.input.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.TagHelpers.output.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorCoreGenerate.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\AddCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\EditCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\FetchCategoria.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorAssemblyInfo.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorAssemblyInfo.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\staticwebassets\Artesanias Marielos.StaticWebAssets.Manifest.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\staticwebassets\Artesanias Marielos.StaticWebAssets.xml
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Artesanias Marielos.styles.css
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorTargetAssemblyInfo.cache
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.RazorTargetAssemblyInfo.cs
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.Views.pdb
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.csproj.CopyComplete
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.dll
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.pdb
+D:\VisualStudio\Artesanias Marielos P\Artesanias Marielos\obj\Debug\netcoreapp3.1\Artesanias Marielos.genruntimeconfig.cache

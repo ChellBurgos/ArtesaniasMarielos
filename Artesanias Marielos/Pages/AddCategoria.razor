@@ -1,0 +1,40 @@
+﻿@page "/addCategoria"
+@inject ICategoriaManager categoriaManager
+@inject Microsoft.AspNetCore.Components.NavigationManager navigationManager
+<h1>
+    Add Categoria
+</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <div class="form-group">
+                <label for="Categoria" class="control-label">Categoria</label>
+                <input for="Cat" class="form-control" @bind-value="@categoria.Categoria" />
+                <label for="Estado" class="control-label">Estado</label>
+                <input for="Es" type="checkbox" @bind-value="@categoria.Estado" />
+
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn btn-primary" @onclick="() => CreateCategoria()">Save</button>
+                <button type="button" class="btn btn-danger" @onclick="() => cancel()">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@code {
+
+    Categorias categoria = new Categorias();
+
+    protected async Task CreateCategoria()
+    {
+        await categoriaManager.Create(categoria);
+        navigationManager.NavigateTo("/categorialist");
+    }
+
+    void cancel()
+    {
+        navigationManager.NavigateTo("/categorialist");
+    }
+}

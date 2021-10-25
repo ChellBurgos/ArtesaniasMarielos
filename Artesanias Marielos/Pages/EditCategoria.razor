@@ -1,0 +1,44 @@
+﻿@page "/editCategoria/{ID}"
+@inject ICategoriaManager CategoriaManager
+@inject Microsoft.AspNetCore.Components.NavigationManager navigationManager
+
+    <div class="row">
+        <div class="col-md-4">
+            <form>
+                <div class="form-group">
+                    <label for="Categoria" class="control-label">Categoria</label>
+                    <input for="Cat" class="form-control" @bind-value="@categoria.Categoria" />
+                    <label for="Estado" class="control-label">Estado</label>
+                    <input type="checkbox" @bind="@categoria.Estado" />
+                </div>
+                <div class="form-group">
+                    <button type="button" class="btn btn-primary" @onclick="() => UpdateCategoria()">Save</button>
+                    <button type="button" class="btn btn-danger" @onclick="() => cancel()">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+@code  {
+
+    [Parameter]
+    public string ID { get; set; }
+
+    Categorias categoria = new Categorias();
+
+    protected override async Task OnInitializedAsync()
+    {
+        categoria = await CategoriaManager.GetById(Convert.ToInt32(ID));
+    }
+
+    protected async Task UpdateCategoria()
+    {
+        await CategoriaManager.Update(categoria);
+        navigationManager.NavigateTo("/categorialist");
+    }
+
+    void cancel()
+    {
+        navigationManager.NavigateTo("/categorialist");
+    }
+}
